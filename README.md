@@ -8,10 +8,10 @@ I am a full stack web developer
 
 
 
-- 🔭 ### Some of my jobs: E-Commerce Shop - https://github.com/facu03/Ecommerce-Tienda
-- 🔭 ### Some of my jobs: E-Commerce Shop - https://github.com/facu03/Proyecto-Billetera-HB
-- 💬 ### Ask me about Javascript
-- 📫 ### How to reach me: facundorivadero@gmail.com
-- 😄 ### Thank you for visiting my profile ⚡
+- 🔭 Some of my jobs: E-Commerce Shop - https://github.com/facu03/Ecommerce-Tienda
+- 🔭 Some of my jobs: E-Commerce Shop - https://github.com/facu03/Proyecto-Billetera-HB
+- 💬 Ask me about Javascript
+- 📫 How to reach me: facundorivadero@gmail.com
+- 😄 Thank you for visiting my profile ⚡
 
 

@@ -1,6 +1,10 @@
-### Hi there 👋
+Hi, my name is Facundo 👋
+I am a full stack web developer
+<div> 
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.armortechs.com%2Fupload%2Fimage%2Fblog%2Fhero%2Fgoogle-javascript-body-text.jpg&f=1&nofb=1"/> 
+  
+  </div>
 
-<!--
 **facu03/facu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
